@@ -27,10 +27,10 @@
         <mj-text font-family="arial" font-size="16px" align="center" color="#808080"><span style="color:#808080"><b>Un(e) ami(e)</b></span> t'as envoyé un fichier </mj-text>
         <!--<mj-image align="center" alt="Télécharger le fichier" href="<?=$lien?>" src="images/bouton.png" align="left" width="188px"></mj-image> -->
         <mj-text align="center">
-    <a href="https://thecleaureliea.promo-24.codeur.online/UploadIt/<?=$url['Url']?>">Télécharger le fichier</a>
+    <a href="https://bilelh.promo-24.codeur.online/Uploadoit/<?=$url['Url']?>">Télécharger le fichier</a>
 </mj-text>
 <mj-text>
-    <a href="https://thecleaureliea.promo-24.codeur.online/UploadIt/telechargement.php">https://thecleaureliea.promo-24.codeur.online/UploadIt/telechargement.php</a>
+    <a href="https://bilelh.promo-24.codeur.online/Uploadoit/telechargement.php">https://bilelh.promo-24.codeur.online/Uploadoit/telechargement.php</a>
 </mj-text>
            <mj-text font-size="11px" align="center" font-weight="100" letter-spacing="1px" padding-bottom="2px" font-family="Arial" line-height="1" color="#77bdff">Ton fichier est préservé pendant 15 jours avant qu’il ne soit détruit par Monsieur soleil...  </mj-text>
          

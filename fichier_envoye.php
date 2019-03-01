@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en">
+<html lang="fr">
 
 <head>
   <!-- Required meta tags -->
@@ -13,7 +13,7 @@
 </head>
 
 <body>
-  <div id="logo"> <a href="https://thecleaureliea.promo-24.codeur.online/UploadIt/"><img src="public/images/logo2.png" style="max-width: 300px"> </a> </div>
+  <div id="logo"> <a href="https://bilelh.promo-24.codeur.online/Uploadoit/"><img src="public/images/logo2.png" style="max-width: 300px"> </a> </div>
 
   <br>
   <h1>Ton message à bien été envoyé !</h1>
@@ -22,7 +22,7 @@
 
   <section><img src="public/images/nunu.png" style="max-width: 500px">
     <br>
-    <form action="https://thecleaureliea.promo-24.codeur.online/UploadIt/">
+    <form action="https://bilelh.promo-24.codeur.online/Uploadoit/">
       <input type="submit" value="Envoyer un nouveau fichier">
   </form> 
 

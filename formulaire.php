@@ -31,6 +31,7 @@ $lien = $filename;
 if ($zip->open($filename, ZipArchive::CREATE)!==TRUE) {
     exit("Impossible d'ouvrir le fichier <$filename>\n");
 }
+
 foreach ($_SESSION["fichiers"] as $key => $_fichier) {
     $zip->addFile($_fichier);
 }
@@ -54,7 +55,7 @@ $destinataire = $_POST['destinataire'];
 $expediteur = $_POST['expediteur'];
 $mess = $_POST['message'];
 
-$email = "test@test.com";
+$email = "test@test.com, test@test.fr, test@test.online,";
 
 $header="MIME-Version: 1.0\r\n";
     $header.='From: UploadIt <'.$expediteur.'>'."\r\n";

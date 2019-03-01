@@ -37,7 +37,7 @@ $url['Url'];
 
     <header>
         <div class="padding">
-            <a id="center" href="https://thecleaureliea.promo-24.codeur.online/UploadIt/"> <img class="left" src="public/images/logo2.png" style="max-width: 400px"></a>
+            <a id="center" href="https://bilelh.promo-24.codeur.online/Uploadoit/"> <img class="left" src="public/images/logo2.png" style="max-width: 400px"></a>
 
         </div>
     </header>
@@ -45,10 +45,10 @@ $url['Url'];
     <p>Téléchargement</p>
 
 
-    <a href="https://thecleaureliea.promo-24.codeur.online/UploadIt/<?=$url['Url']?>"><button type="button">Télécharge le fichier</button></a>
+    <a href="https://bilelh.promo-24.codeur.online/Uploadoit/<?=$url['Url']?>"><button type="button">Télécharge le fichier</button></a>
         <br>
         <br>
-        <form action="https://thecleaureliea.promo-24.codeur.online/UploadIt/">
+        <form action="https://bilelh.promo-24.codeur.online/Uploadoit/">
             <input type="submit" value="Retour à l'accueil">
         </form> 
 

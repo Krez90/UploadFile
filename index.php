@@ -19,7 +19,7 @@
   <div class="container">
     <div class="row">
       <div class="col" id="logo2">
-        <a href="//bilelh.promo-24.codeur.online/UploadIt/">
+        <a href="https://bilelh.promo-24.codeur.online/Uploadoit/">
           <img class="logo_header" src="public/images/logo2.png"></a>
       </div>
     </div>

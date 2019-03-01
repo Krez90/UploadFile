@@ -63,6 +63,7 @@ FilePond.setOptions({
           onload: (response) => response.key,
           onerror: (response) => response.data,
           ondata: (formData) => {
+
               // formData.get("fichier");
               return formData;
           }

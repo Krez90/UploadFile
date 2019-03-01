@@ -1,6 +1,5 @@
 <?php
 session_start();
-var_dump($_SESSION).
 // Fichier upload
 
 //     $cheminetnomTemporaire = $_FILES['fichier']['tmp_name'];
@@ -20,7 +19,9 @@ var_dump($_SESSION).
 // echo $message;
 
 $cheminetnomTemporaire = $_FILES['fichier']['tmp_name'];
+
 $_fichier = basename ($_FILES['fichier']['name']);
+
 $_fichier = 'fichier_upload/'.$_FILES['fichier']['name'];
 $moveIsOk = move_uploaded_file($cheminetnomTemporaire, $_fichier);
 
@@ -33,6 +34,7 @@ $message = "Suite à une erreur, le fichier n'a pas été uploadé !!";
 }
 
 echo $message;
+
 // Fin fichier Upload
 
 // // Générer le code aléatoire
